@@ -8,7 +8,7 @@
 	<name>appsensor-storage-jpa2</name>
 
 	<properties>
-		<spring.version>4.0.3.RELEASE</spring.version>
+		<spring.version>4.0.5.RELEASE</spring.version>
 		<hsqldb.version>2.3.2</hsqldb.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
