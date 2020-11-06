@@ -9,7 +9,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<influxdb.version>2.1</influxdb.version>
+		<influxdb.version>2.6</influxdb.version>
 		<spring.version>4.0.3.RELEASE</spring.version>
 		<gson.version>2.6.2</gson.version>
 	</properties>
